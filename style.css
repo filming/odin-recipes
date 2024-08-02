@@ -16,6 +16,13 @@ h1 {
     text-align: center;
 }
 
+h2 { 
+    width: 200px; 
+    text-align: center; 
+    padding: 10px; 
+    border: 2px white solid; 
+}
+
 .homepage-links {
     border: 2px white solid;
     text-align: center;
