@@ -14,3 +14,18 @@ h1 {
     font-size: 56px;
     text-align: center;
 }
+
+.homepage-links {
+    border: 2px white solid;
+    text-align: center;
+    padding: 20px;
+}
+
+.homepage-links li {
+    list-style-type: none;
+    margin: 20px;
+}
+
+.homepage-links a {
+    text-decoration: none;
+}
