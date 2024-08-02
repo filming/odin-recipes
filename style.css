@@ -25,6 +25,13 @@ h2 {
     border: 2px #14213D solid; 
 }
 
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 8px;
+    border: 4px #E5E5E5 solid;
+}
+
 .navbar {
     padding: 8px;
 }
