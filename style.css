@@ -23,6 +23,17 @@ h2 {
     border: 2px white solid; 
 }
 
+.navbar {
+    padding: 8px;
+}
+
+.navbar a {
+    text-decoration: none;
+    border: 2px white solid;
+    padding: 8px;
+    margin-top: 8px;
+}
+
 .homepage-links {
     border: 2px white solid;
     text-align: center;
