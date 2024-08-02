@@ -17,10 +17,12 @@ h1 {
 }
 
 h2 { 
+    background-color: #FCA311;
+    color: #14213D;
     width: 200px; 
     text-align: center; 
     padding: 10px; 
-    border: 2px white solid; 
+    border: 2px #14213D solid; 
 }
 
 .navbar {
@@ -31,7 +33,6 @@ h2 {
     text-decoration: none;
     border: 2px white solid;
     padding: 8px;
-    margin-top: 8px;
 }
 
 .homepage-links {
