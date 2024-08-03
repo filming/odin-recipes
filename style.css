@@ -40,6 +40,7 @@ img {
     text-decoration: none;
     border: 2px white solid;
     padding: 8px;
+    border-radius: 8px;
 }
 
 .homepage-links {
