@@ -65,6 +65,6 @@ img {
     border-radius: 8px;
 }
 
-.homepage-links a:hover {
+.homepage-links a:hover, .navbar a:hover {
     background-color:#3e5ea4;
 }
