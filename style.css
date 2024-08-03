@@ -44,16 +44,27 @@ img {
 }
 
 .homepage-links {
-    border: 2px white solid;
     text-align: center;
     padding: 20px;
 }
 
 .homepage-links li {
+    width: 75%;
+    margin: 24px auto;
+    text-align: center;
     list-style-type: none;
-    margin: 20px;
 }
 
 .homepage-links a {
+    background-color: #14213D;
+    color:#FCA311;
+    display: block;
+    padding: 10px;
     text-decoration: none;
+    border: 4px #E5E5E5 solid;
+    border-radius: 8px;
+}
+
+.homepage-links a:hover {
+    background-color:#3e5ea4;
 }
